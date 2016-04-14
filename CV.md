@@ -6,7 +6,8 @@ Tilburg, Netherlands
 ####Projects
 
 * [HTML Presentation](http://kshitizd.github.io/Second-Assignment/)
-* [ipython notebook simulation of Greenwood-Jovanovic model](https://github.com/KshitizD/Third-Assignment_Numerical-Simulation/blob/master/Dahal_Nguyen_Huy_Obilor_-_Agent_based_modeling_approach_of_the_Greenwood-Jovanovic_model.ipynb) 
+* [ipython notebook simulation of Greenwood-Jovanovic model](https://github.com/numeraire92/third-assignment/blob/master/Dahal_Nguyen_Huy_Obilor_-_Agent_based_modeling_approach_of_the_Greenwood-Jovanovic_model.ipynb) 
+* [HTML rendering of Greenwood-Jovanovic simulation in ipython notebook](http://numeraire92.github.io/third-assignment/)
 
 
 ####Interested in
