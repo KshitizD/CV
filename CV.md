@@ -51,7 +51,7 @@ Interviewed prospective Dickinson College applicants for admission.
 * **Tilburg University:** Tilburg Alumni Scholarship (2015)
 
 ### Technical Skills
-* Microsoft Word, Excel, and PowerPoint; Java Programming; MATLAB; R; Stata.
+* Microsoft Word, Excel, and PowerPoint; Java Programming; MATLAB; R; Stata; Python.
 
                                    
 
