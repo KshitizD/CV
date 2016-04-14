@@ -15,7 +15,8 @@ Tilburg, Netherlands
 ####Education
 * **Master of Science in Economics (current)**  
   Tilburg University, Tilburg, Netherlands  
-  Expected Graduation: August, 2016.  
+Expected Graduation: August, 2016.
+    
   
 * **Bachelor of Science in Mathematics and Economics**  
  *(September 2016 - May 2010)*  
@@ -51,22 +52,4 @@ Interviewed prospective Dickinson College applicants for admission.
 * **Tilburg University:** Tilburg Alumni Scholarship (2015)
 
 ### Technical Skills
-* Microsoft Word, Excel, and PowerPoint; Java Programming; MATLAB; R; Stata; Python.
-
-                                   
-
- 
-
-
-
-
-  
-
-
-
-
- 
-  
-
- 
-
+* Microsoft Word, Excel, and PowerPoint; Java Programming; MATLAB; R; Stata; Python.  
